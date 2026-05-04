@@ -33,5 +33,26 @@ const POS_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz012345
 ### Encoded Color
 its encoded the same way as [positon](###-Encoded-Position). like a grid index. but use r g b instead of x y z
 
-### Material Code
-[]
+### Material Codes
+these are the material codes to put.
+```luau
+    ["Default"] = nil,
+    ["Glass"] = "2",
+    ["Diamond Plate"] = "3",
+    ["Fabric"] = "4",
+    ["Grass"] = "5",
+    ["Ice"] = "6",
+    ["Sand"] = "7",
+    ["Wood"] = "8",
+    ["Wooden Planks"] = "9",
+    ["Foil"] = "a",
+    ["Metal"] = "b",
+    ["Brick"] = "c",
+    ["Concrete"] = "d",
+    ["Cobblestone"] = "e",
+    ["Marble"] = "f",
+    ["Granite"] = "g",
+    ["Slate"] = "h",
+    ["Corroded Metal"] = "i",
+    ["Force Field"] = "j",
+```
