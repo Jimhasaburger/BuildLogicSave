@@ -8,10 +8,10 @@
 ### Block Code:
 the block code is a single character.
 the full list of block codes is [here](https://tomtom4500.lovestoblog.com/BuildLogic/Paste/TableItems.json) (excluding some beams)
+the full list of block codes including beams is [here](https://tomtom.worldlite.ca/BuildLogic/GetItemsList.php)
 #### Beams
 beams use weird characters for block codes.
-(the other beams can be found on [the list](https://tomtom4500.lovestoblog.com/BuildLogic/Paste/TableItems.json))
-https://tomtom.worldlite.ca/BuildLogic/GetItemsList.php
+(the other beams can be found on [the 1st list](https://tomtom4500.lovestoblog.com/BuildLogic/Paste/TableItems.json)
 
 Beam 1x2 = STX special character
 
