@@ -11,6 +11,7 @@ the full list of block codes is [here](https://tomtom4500.lovestoblog.com/BuildL
 #### Beams
 beams use weird characters for block codes.
 (the other beams can be found on [the list](https://tomtom4500.lovestoblog.com/BuildLogic/Paste/TableItems.json))
+https://tomtom.worldlite.ca/BuildLogic/GetItemsList.php
 
 Beam 1x2 = STX special character
 
