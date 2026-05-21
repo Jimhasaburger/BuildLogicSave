@@ -28,8 +28,13 @@ this is the encoded position. its like a grid index. it goes from 0 0 0 to 255 2
 it uses [Base71](####-base71)
 
 #### base71
+actually. i think saves use base64 with custom chars:
 ```js
 const POS_ALPHABET = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789#$";
+```
+this is base71:
+```
+const BASE71_CHARS = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!@$%?&<()";
 ```
 
 ### Encoded Rotation
