@@ -93,3 +93,7 @@ __
 if you want more blocks. make more block save parts. and connect them using ; character
 heres a finished save string:
 GAAAAAy0sM5;GAEAAAAg3$j;GAAQAAy0sM5;GAEQAAAg3$j;GAAgAAy0sM5;GAEgAAAg3$j;GAAwAAlNUIh;
+
+## WIRES
+official documentation on wires: 
+https://docs.google.com/document/d/1sTOnYXiy9aPp95HyUgKzUYpiZkVYbJIa7g9k6HbDWN8/edit?tab=t.0#heading=h.ltnj9eoh4x7m
